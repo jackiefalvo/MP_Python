@@ -1,0 +1,4 @@
+between_days,acoustic,whale,zooplankton,overlap
+2011-02-17,acoustic,whale,zooplankton,True
+2011-03-04,acoustic,whale,,False
+2011-03-06,acoustic,,,False
